@@ -6,6 +6,7 @@
     <e p="D:\GitHub\dahuashuju\Dahuashujujiegou\ShuJiJieGou" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="ShuJiJieGou" t="IncludeRecursive">
+        <e p="ActivityOnVertexNetWork.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">

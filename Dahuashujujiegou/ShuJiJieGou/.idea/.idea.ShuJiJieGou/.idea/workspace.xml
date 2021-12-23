@@ -4,7 +4,10 @@
     <projectFile>ShuJiJieGou/ShuJiJieGou.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7603c6c-937e-45b6-bd7a-fd132024fe5d" name="Default Changelist" comment="" />
+    <list default="true" id="e7603c6c-937e-45b6-bd7a-fd132024fe5d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShuJiJieGou/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShuJiJieGou/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShuJiJieGou/obj/Debug/net5.0/ShuJiJieGou.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ShuJiJieGou/obj/Debug/net5.0/ShuJiJieGou.csproj.AssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ShuJiJieGou/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="22gwuV6lofwPFPVOv96p6SxNlR0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -54,13 +60,16 @@
       <option name="presentableId" value="Default" />
       <updated>1640272760699</updated>
       <workItem from="1640272766015" duration="12000" />
+      <workItem from="1640273191841" duration="138000" />
+      <workItem from="1640273355358" duration="341000" />
+      <workItem from="1640273939103" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -72,6 +81,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
