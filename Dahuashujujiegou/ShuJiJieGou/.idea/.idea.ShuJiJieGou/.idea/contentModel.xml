@@ -7,7 +7,10 @@
       <e p="packages" t="ExcludeRecursive" />
       <e p="ShuJiJieGou" t="IncludeRecursive">
         <e p="ActivityOnVertexNetWork.cs" t="Include" />
+        <e p="AStart.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="ExtensionTest.cs" t="Include" />
+        <e p="Graph.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="net5.0" t="Include">
@@ -15,8 +18,24 @@
             </e>
           </e>
         </e>
+        <e p="OrthogonalList.cs" t="Include" />
         <e p="Program.cs" t="Include" />
+        <e p="Search" t="Include">
+          <e p="AVL" t="Include">
+            <e p="AVLTree.cs" t="Include" />
+          </e>
+          <e p="BinaryTree" t="Include">
+            <e p="BinarySearch.cs" t="Include" />
+            <e p="BinaryTree.cs" t="Include" />
+          </e>
+        </e>
+        <e p="SearchBST.cs" t="Include" />
         <e p="ShuJiJieGou.csproj" t="IncludeRecursive" />
+        <e p="Sort" t="Include">
+          <e p="SqList.cs" t="Include" />
+        </e>
+        <e p="SortTest.cs" t="Include" />
+        <e p="Tree.cs" t="Include" />
       </e>
       <e p="ShuJiJieGou.sln" t="IncludeFlat" />
     </e>
