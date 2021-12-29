@@ -1,0 +1,16 @@
+D:\GitHub\dahuashuju\Dahuashujujiegou\ShuJiJieGou\ShuJiJieGou\bin\Debug\net5.0\ShuJiJieGou.exe
+D:\GitHub\dahuashuju\Dahuashujujiegou\ShuJiJieGou\ShuJiJieGou\bin\Debug\net5.0\ShuJiJieGou.deps.json
+D:\GitHub\dahuashuju\Dahuashujujiegou\ShuJiJieGou\ShuJiJieGou\bin\Debug\net5.0\ShuJiJieGou.runtimeconfig.json
+D:\GitHub\dahuashuju\Dahuashujujiegou\ShuJiJieGou\ShuJiJieGou\bin\Debug\net5.0\ShuJiJieGou.runtimeconfig.dev.json
+D:\GitHub\dahuashuju\Dahuashujujiegou\ShuJiJieGou\ShuJiJieGou\bin\Debug\net5.0\ShuJiJieGou.dll
+D:\GitHub\dahuashuju\Dahuashujujiegou\ShuJiJieGou\ShuJiJieGou\bin\Debug\net5.0\ref\ShuJiJieGou.dll
+D:\GitHub\dahuashuju\Dahuashujujiegou\ShuJiJieGou\ShuJiJieGou\bin\Debug\net5.0\ShuJiJieGou.pdb
+D:\GitHub\dahuashuju\Dahuashujujiegou\ShuJiJieGou\ShuJiJieGou\obj\Debug\net5.0\ShuJiJieGou.csproj.AssemblyReference.cache
+D:\GitHub\dahuashuju\Dahuashujujiegou\ShuJiJieGou\ShuJiJieGou\obj\Debug\net5.0\ShuJiJieGou.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\dahuashuju\Dahuashujujiegou\ShuJiJieGou\ShuJiJieGou\obj\Debug\net5.0\ShuJiJieGou.AssemblyInfoInputs.cache
+D:\GitHub\dahuashuju\Dahuashujujiegou\ShuJiJieGou\ShuJiJieGou\obj\Debug\net5.0\ShuJiJieGou.AssemblyInfo.cs
+D:\GitHub\dahuashuju\Dahuashujujiegou\ShuJiJieGou\ShuJiJieGou\obj\Debug\net5.0\ShuJiJieGou.csproj.CoreCompileInputs.cache
+D:\GitHub\dahuashuju\Dahuashujujiegou\ShuJiJieGou\ShuJiJieGou\obj\Debug\net5.0\ShuJiJieGou.dll
+D:\GitHub\dahuashuju\Dahuashujujiegou\ShuJiJieGou\ShuJiJieGou\obj\Debug\net5.0\ref\ShuJiJieGou.dll
+D:\GitHub\dahuashuju\Dahuashujujiegou\ShuJiJieGou\ShuJiJieGou\obj\Debug\net5.0\ShuJiJieGou.pdb
+D:\GitHub\dahuashuju\Dahuashujujiegou\ShuJiJieGou\ShuJiJieGou\obj\Debug\net5.0\ShuJiJieGou.genruntimeconfig.cache
