@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Text;
+using Sortttt;
 
 namespace ConsoleApp1
 {
@@ -18,9 +19,15 @@ namespace ConsoleApp1
             //sortTest();
 
             // 静态扩展
-            Action a = "jimer".ShowItems;
+            //Action a = "jimer".ShowItems;
 
-            a();
+            //a();
+            
+            //排序测试
+            SqList s = new SqList();
+            
+            s.InsertSort();
+            Console.WriteLine(s.ToString());
         }
         
         static void sortTest()

@@ -6,7 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="e7603c6c-937e-45b6-bd7a-fd132024fe5d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ShuJiJieGou/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShuJiJieGou/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShuJiJieGou/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ShuJiJieGou/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ShuJiJieGou/Sort/SqList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ShuJiJieGou/Sort/SqList.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShuJiJieGou/bin/Debug/net5.0/ShuJiJieGou.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ShuJiJieGou/bin/Debug/net5.0/ShuJiJieGou.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShuJiJieGou/bin/Debug/net5.0/ShuJiJieGou.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ShuJiJieGou/bin/Debug/net5.0/ShuJiJieGou.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShuJiJieGou/bin/Debug/net5.0/ref/ShuJiJieGou.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ShuJiJieGou/bin/Debug/net5.0/ref/ShuJiJieGou.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShuJiJieGou/obj/Debug/net5.0/ShuJiJieGou.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ShuJiJieGou/obj/Debug/net5.0/ShuJiJieGou.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShuJiJieGou/obj/Debug/net5.0/ShuJiJieGou.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ShuJiJieGou/obj/Debug/net5.0/ShuJiJieGou.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShuJiJieGou/obj/Debug/net5.0/ref/ShuJiJieGou.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ShuJiJieGou/obj/Debug/net5.0/ref/ShuJiJieGou.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +41,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3496708" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -74,7 +83,7 @@
       <workItem from="1640274077173" duration="634000" />
       <workItem from="1640397806196" duration="854000" />
       <workItem from="1640654228903" duration="4920000" />
-      <workItem from="1641432775755" duration="2344000" />
+      <workItem from="1641432775755" duration="13888000" />
     </task>
     <task id="LOCAL-00001" summary="提交新代码">
       <created>1640274508366</created>

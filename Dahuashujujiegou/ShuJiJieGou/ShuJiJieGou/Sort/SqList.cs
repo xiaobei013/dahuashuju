@@ -1,18 +1,61 @@
-﻿namespace ConsoleApp1.Sort
+﻿namespace Sortttt
 {
     public class SqList
     {
         private static int MAXSIZE = 10;
 
-        public SqList(int size)
+        /*public SqList(int size)
         {
-            MAXSIZE = 10;
-        }
+            MAXSIZE = size;
+        }*/
+        //{0,5,3,4,6,2} length == 6 0  r[0] 是哨兵
 
-        public int[] r = new int[MAXSIZE + 1]; //多加一位是为了 R[0]存储哨兵或者临时变量
+        public int[] r = {0,5,3,4,6,2}; //多加一位是为了 R[0]存储哨兵或者临时变量
 
         //注意这里的length，是当前数组的存储数据的个数，只能动态维护
-        public int length;
+        public int length
+        {
+            get
+            {
+                return r.Length - 1;
+            }
+        }
+
+        public override string ToString()
+        {
+            string s = "";
+            for (int i = 1; i < r.Length; i++)
+            {
+                if (i == r.Length - 1)
+                {
+                    s = s + r[i] ;
+                }
+                else
+                {
+                    s = s + r[i] + "," ;
+                }
+            }
+
+            return s;
+        }
+
+        public string TestToString()
+        {
+            string s = "";
+            for (int i = 0; i < r.Length; i++)
+            {
+                if (i == r.Length - 1)
+                {
+                    s = s + r[i] ;
+                }
+                else
+                {
+                    s = s + r[i] + "," ;
+                }
+            }
+
+            return s;
+        }
     }
 
 
@@ -79,5 +122,32 @@
                 }
             }
         }
+        
+        //--总结--无论简单选择拍寻还是冒泡排序时间复杂度都是O(n^2)
+        
+        //直接插入排序straiht insertion sort
+
+        
+        public static void InsertSort(this SqList l)
+        {
+            int j;
+            //从2开始，假设了1已经是再他该在的位置上了
+            for (int i = 2; i <= l.length; i++)
+            {
+                //剩下的问题是看i插入到 i-1 的哪边？
+                if (l.r[i] < l.r[i - 1]) //正序
+                {
+                    //哨兵，把小的放到里面
+                    l.r[0] = l.r[i];
+                    //注意这里的for循环
+                    for (j = i - 1; l.r[j] > l.r[0]; j--)
+                    {
+                        l.r[j + 1] = l.r[j];//因为i-1更大，就要移动i-1，又因为j=i-1; 所以只要移动j往右移动（j+1）
+                    }
+                    l.r[j + 1] = l.r[0];
+                }       
+            }
+        }
+        
     }
 }
